@@ -1,3 +1,5 @@
+### This code is associated with the paper "EM connectomics reveals axonal target variation in a sequence-generating network". eLife, 2017. http://dx.doi.org/10.7554/eLife.24364
+
 Aligner
 =======
 
